@@ -3,6 +3,13 @@ STUDENT ID: 11117173
 # My React Native App
 
 This is a simple React Native application that displays a text with a specific background color and customized styling.
+### Installation
+
+1. Clone the repository:
+
+    sh
+    git clone https://github.com/asareprosper143/(https://github.com/asareprosper143/rn-assignment2-11117173)
+
 
 ## Features
 
